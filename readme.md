@@ -2,8 +2,12 @@
 
 ### Description
 
-UI app for Conway's Game of Life real-time multiplayer implementation. Based on [Create-React-App](https://facebook.github.io/create-react-app/)
+UI app for Conway's Game of Life real-time multiplayer implementation.
+
+Based on [Create-React-App](https://facebook.github.io/create-react-app/)
+
 Complements [Web-socket server app](https://github.com/isSerge/game-of-life-websocket-server)
+
 Deployed on [Heroku](https://game-of-life-ui.herokuapp.com/)
 
 ### Start locally
