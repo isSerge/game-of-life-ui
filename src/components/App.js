@@ -46,16 +46,22 @@ const App = () => {
         const object = JSON.parse(event.data)
 
         if (object.topic === topics.INITIAL_RESPONSE) {
-            const { color, cells } = object.data
-            setColor(color)
-            updateCells(cells)
+            handleInitialResponse(object.data)
         }
 
         if (object.topic === topics.WORLD_UPDATE) {
-            const { generation, cells } = object.data
-            updateCells(cells)
-            setGeneration(generation)
+            handleWorldUpdate(object.data)
         }
+    }
+
+    const handleInitialResponse = ({ color, cells }) => {
+        setColor(color)
+        updateCells(cells)
+    }
+
+    const handleWorldUpdate = ({ generation, cells }) => {
+        updateCells(cells)
+        setGeneration(generation)
     }
 
     useLayoutEffect(() => {
