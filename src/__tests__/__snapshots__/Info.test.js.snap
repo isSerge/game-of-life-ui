@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Info matches snapshot 1`] = `
+<div
+  className="sc-bwzfXH sc-bxivhb jAZmXE"
+>
+  <div
+    className="sc-bwzfXH ddDkHF"
+  >
+    <p>
+      Your color 
+    </p>
+    <div
+      className="sc-htpNat foamjo"
+      color="#fff"
+    />
+  </div>
+  <p>
+    Generation: 
+    5
+  </p>
+</div>
+`;

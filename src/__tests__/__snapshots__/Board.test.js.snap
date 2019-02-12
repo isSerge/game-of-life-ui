@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board matches snapshot 1`] = `
+<table>
+  <tbody>
+    <tr>
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+    </tr>
+    <tr>
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+    </tr>
+    <tr>
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+    </tr>
+    <tr>
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+    </tr>
+    <tr>
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+      <td
+        className="sc-bdVaJa sc-htpNat lndUsG"
+        color={0}
+        onClick={[Function]}
+      />
+    </tr>
+  </tbody>
+</table>
+`;

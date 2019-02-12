@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buttons matches snapshot 1`] = `
+<div
+  className="sc-bwzfXH hDHdtQ"
+>
+  <button
+    className="sc-bdVaJa btTGJZ"
+    onClick={[MockFunction]}
+  >
+    start
+  </button>
+  <button
+    className="sc-bdVaJa btTGJZ"
+    onClick={[MockFunction]}
+  >
+    next
+  </button>
+  <button
+    className="sc-bdVaJa btTGJZ"
+    onClick={[MockFunction]}
+  >
+    pause
+  </button>
+  <button
+    className="sc-bdVaJa btTGJZ"
+    onClick={[MockFunction]}
+  >
+    refresh
+  </button>
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header matches snapshot 1`] = `
+<header
+  className="sc-bdVaJa fbVJlx"
+>
+  <h1
+    className="sc-bwzfXH jEoixz"
+  >
+    Random title
+  </h1>
+</header>
+`;
