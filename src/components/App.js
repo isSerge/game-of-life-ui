@@ -9,7 +9,7 @@ import Info from './Info'
 import { topics, patternNames } from '../constants'
 import patterns from '../patterns'
 
-const socket = new WebSocket('ws://127.0.0.1:8000/')
+const socket = new WebSocket(process.env.REACT_APP_WEB_SOCKET || 'ws://127.0.0.1:8000/')
 
 const sendEvent = (topic, data) =>
     socket.send(
