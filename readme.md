@@ -18,7 +18,7 @@ Deployed on [Heroku](https://game-of-life-ui.herokuapp.com/)
 -   `yarn start`
 -   visit `http://localhost:3000`
 
-Note: This app requires backend server to run. You can clone it from [GitHub](https://github.com/isSerge/game-of-life-websocket-server) and launch locally or use the one deployed on Heroku, providing REACT_APP_WEB_SOCKET=wss://game-of-life-web-socket.herokuapp.com/ environmental variable
+Note: This app requires backend server to run. You can clone it from [GitHub](https://github.com/isSerge/game-of-life-websocket-server) and launch locally or use the one deployed on Heroku, providing `REACT_APP_WEB_SOCKET=wss://game-of-life-web-socket.herokuapp.com/` environmental variable
 
 ### Scripts
 
