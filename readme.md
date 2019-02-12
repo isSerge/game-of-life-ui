@@ -39,6 +39,7 @@ For more details check Create-React-App [docs](https://facebook.github.io/create
 -   As mentioned above the app is built using [Create-React-App](https://facebook.github.io/create-react-app/), which is the most convinient way to start React app and at the same time can be later extended. I also utilized [React Hooks](https://reactjs.org/docs/hooks-intro.html), which were recently introduced.
 -   For styling I used [Styled components](http://styled-components.com/). However I didn't want to focus on styles too much as it would require more time, so current implementation is quite simple.
 -   Most of the app logic is located in App.js, which is a smart (stateful) component. All the rest components are dumb - they just render data received as props.
+-   Some very basic testing was implemented, in order to fully cover functionality with unit tests it would require mocking web-socket connection
 
 UX improvements that could be done in the future:
 
@@ -49,3 +50,4 @@ UX improvements that could be done in the future:
 -   send notification if other user disconnects
 -   send notification if new user connects
 -   game starts when all users click 'start' (currently user single click starts the game )
+-   add night mode
